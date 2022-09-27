@@ -5,7 +5,7 @@ An information retrieval project that returns relevant news from its database ba
 # Introduction
 This project consists of three phases which are explained below. 
 
-## Phase One: Pre-processing, inverted indexes, return results
+## Phase One: Pre-processing, inverted indexes
 The parts of this phase are listed below.
 * Pre-processing
   * Deleting the stop words
